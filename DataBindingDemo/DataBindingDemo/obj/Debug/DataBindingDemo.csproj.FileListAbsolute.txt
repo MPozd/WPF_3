@@ -1,0 +1,16 @@
+D:\ITMO\Сем 8\Создание ПО\WPF_3\DataBindingDemo\DataBindingDemo\bin\Debug\DataBindingDemo.exe.config
+D:\ITMO\Сем 8\Создание ПО\WPF_3\DataBindingDemo\DataBindingDemo\bin\Debug\DataBindingDemo.exe
+D:\ITMO\Сем 8\Создание ПО\WPF_3\DataBindingDemo\DataBindingDemo\bin\Debug\DataBindingDemo.pdb
+D:\ITMO\Сем 8\Создание ПО\WPF_3\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.csprojAssemblyReference.cache
+D:\ITMO\Сем 8\Создание ПО\WPF_3\DataBindingDemo\DataBindingDemo\obj\Debug\MainWindow.g.cs
+D:\ITMO\Сем 8\Создание ПО\WPF_3\DataBindingDemo\DataBindingDemo\obj\Debug\App.g.cs
+D:\ITMO\Сем 8\Создание ПО\WPF_3\DataBindingDemo\DataBindingDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ITMO\Сем 8\Создание ПО\WPF_3\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo_MarkupCompile.cache
+D:\ITMO\Сем 8\Создание ПО\WPF_3\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo_MarkupCompile.lref
+D:\ITMO\Сем 8\Создание ПО\WPF_3\DataBindingDemo\DataBindingDemo\obj\Debug\MainWindow.baml
+D:\ITMO\Сем 8\Создание ПО\WPF_3\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.g.resources
+D:\ITMO\Сем 8\Создание ПО\WPF_3\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.Properties.Resources.resources
+D:\ITMO\Сем 8\Создание ПО\WPF_3\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.csproj.GenerateResource.cache
+D:\ITMO\Сем 8\Создание ПО\WPF_3\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.csproj.CoreCompileInputs.cache
+D:\ITMO\Сем 8\Создание ПО\WPF_3\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.exe
+D:\ITMO\Сем 8\Создание ПО\WPF_3\DataBindingDemo\DataBindingDemo\obj\Debug\DataBindingDemo.pdb

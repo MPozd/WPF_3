@@ -1,0 +1,15 @@
+D:\ITMO\Сем 8\Создание ПО\WPF_3\Param\Param\bin\Debug\Param.exe.config
+D:\ITMO\Сем 8\Создание ПО\WPF_3\Param\Param\bin\Debug\Param.exe
+D:\ITMO\Сем 8\Создание ПО\WPF_3\Param\Param\bin\Debug\Param.pdb
+D:\ITMO\Сем 8\Создание ПО\WPF_3\Param\Param\obj\Debug\Param.csprojAssemblyReference.cache
+D:\ITMO\Сем 8\Создание ПО\WPF_3\Param\Param\obj\Debug\MainWindow.g.cs
+D:\ITMO\Сем 8\Создание ПО\WPF_3\Param\Param\obj\Debug\App.g.cs
+D:\ITMO\Сем 8\Создание ПО\WPF_3\Param\Param\obj\Debug\Param_MarkupCompile.cache
+D:\ITMO\Сем 8\Создание ПО\WPF_3\Param\Param\obj\Debug\Param_MarkupCompile.lref
+D:\ITMO\Сем 8\Создание ПО\WPF_3\Param\Param\obj\Debug\MainWindow.baml
+D:\ITMO\Сем 8\Создание ПО\WPF_3\Param\Param\obj\Debug\Param.g.resources
+D:\ITMO\Сем 8\Создание ПО\WPF_3\Param\Param\obj\Debug\Param.Properties.Resources.resources
+D:\ITMO\Сем 8\Создание ПО\WPF_3\Param\Param\obj\Debug\Param.csproj.GenerateResource.cache
+D:\ITMO\Сем 8\Создание ПО\WPF_3\Param\Param\obj\Debug\Param.csproj.CoreCompileInputs.cache
+D:\ITMO\Сем 8\Создание ПО\WPF_3\Param\Param\obj\Debug\Param.exe
+D:\ITMO\Сем 8\Создание ПО\WPF_3\Param\Param\obj\Debug\Param.pdb

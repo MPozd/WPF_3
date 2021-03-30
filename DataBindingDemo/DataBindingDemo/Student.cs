@@ -6,7 +6,9 @@ using System.Threading.Tasks;
 
 namespace DataBindingDemo
 {
-    class Student
+    public class Student
     {
+        public string StudentName { get; set; }
+        public bool IsEnrolled { get; set; }
     }
 }
